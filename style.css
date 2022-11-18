@@ -1,0 +1,151 @@
+.header-img {
+  width: 100%;
+  height: 400px;
+  background: url('travel plane.jpg');
+  background-size: cover;
+}
+
+#header {
+  color: #3b3a30;
+	text-align: center;
+}
+
+#header {
+    font-family: 'Garamond', serif;
+    font-size: 22px;
+}
+
+body {
+	width: 100%; 
+	margin: 0 auto;
+	font-family: 'Century Gothic', sans-serif;
+}
+
+#content {
+	overflow: auto; 
+	height: 100%;
+}
+
+li {
+	display: inline; 
+	padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #96897f;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+	transition-duration: 0.4s;
+  background-color: #c6bcb6;
+}
+
+#intro {
+	padding: 10px;
+}
+
+#navlist, #feature, #footer {
+	color: whitesmoke;
+	background-color: #96897f; 
+	padding: 10px; 
+	margin: 10px;
+}
+
+
+.column1, .column2 {
+	color: whitesmoke;
+	background-color: #96897f; 
+	width: 735px; 
+	float: left; 
+	margin: 10px;
+}
+
+#pic {
+	float: left;
+}
+
+#pic2 {
+	float: right;
+}
+
+#aa {
+	margin: 15px;
+}
+
+div.a {
+	float: left;
+	margin: 15px;
+}
+
+#b {
+	margin: 15px;
+}
+
+#aboutme {
+	text-align: left;
+	font-size: 25px;
+	margin: 15px;
+	padding: 20px;
+}
+
+
+#aboutme2 {
+	text-align: left;
+	font-size: 28px;
+	margin: 10px;
+	padding: 20px;
+}
+
+.blog1{
+	color: black;
+	background-color: #dbceb0; 
+	width: 730px;
+	float: left; 
+	margin: 10px;
+	padding: 10px;
+}
+
+.blog2{
+	color: black;
+	background-color: #dbceb0; 
+	width: 730px;
+	float: right; 
+	margin: 10px;
+	padding: 10px;
+}
+
+#b1 {
+	margin: 5px;
+	font-size: 25px;
+	padding: 10px;
+}
+
+#b2 {
+	margin: 5px;
+	font-size: 25px;
+	padding: 10px;
+}
+
+#iframe {
+	margin: 10px;
+}
+
+#iframe2 {
+	margin: 15px;
+}
